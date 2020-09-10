@@ -16,3 +16,5 @@ keybase pgp decrypt -i example2.txt # Keybase command to decrypt example2.txt ( 
 Then a dialog appears and you enter your pass-phrase to decode it.
 
 For additional troubleshoot use google ))
+
+Original Source for password creation : https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_user_login_profile
